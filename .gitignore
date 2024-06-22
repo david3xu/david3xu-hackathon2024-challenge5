@@ -1,7 +1,7 @@
-Challenge5-call_001-100/
-.*.mp3
-.env
-data/
+Challenge5-call_001-100
+*.mp3
+.env/
+data
 
 
 
